@@ -35,7 +35,7 @@ async def start(bot, update):
                         [
                             InlineKeyboardButton
                                 (
-                                    'join our channel', url="https://t.me/matahdmovie123"
+                                    '🔎click here to search again', url="https://t.me/tamamoviesbymj"
                                 )
                         ]
                     ]
